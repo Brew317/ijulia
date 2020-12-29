@@ -1,2 +1,2 @@
-# ijulia
-docker image of julia and ijulia (jupyter)
+# jupyter
+docker image running jupyter with IJulia  and command line Julia
